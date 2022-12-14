@@ -10,6 +10,9 @@
 
 <h1> Languages and Tools </h1>
 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="5%" height="5%" > <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="5%" height="5%" > <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="5%" height="5%" >
+
+
 <!---
 surajbhan-3/surajbhan-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
