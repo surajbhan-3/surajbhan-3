@@ -6,7 +6,7 @@
 
 <h1>Connect with me </h1>
 
-<a href="https://www.linkedin.com/in/surajbhan-singh/" rel="nofollow"><img src="https://camo.githubusercontent.com/6c2062b2fe4c162f42f82974fd41d6b630f20fac772161cfecc81e722e6d40b6/68747470733a2f2f696d672e69636f6e73382e636f6d2f616e64726f69642f32342f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/surajbhan-singh/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
 
 <h1> Languages and Tools </h1>
 
