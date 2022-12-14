@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @surajbhan-3
+- 👋 Hi, I’m  Suraj Bhan Singh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me surajbhan2boz@gmail.com
 
 <h1>Connect with me </h1>
 
