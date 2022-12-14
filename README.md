@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me surajbhan2boz@gmail.com
+- 📫 How to reach me surajbhan2baoz@gmail.com
 
 <h1>Connect with me </h1>
 
