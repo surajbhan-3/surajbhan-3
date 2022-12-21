@@ -24,3 +24,5 @@ You can click the Preview link to take a look at your changes.
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhan-3&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=surajbhan-3)](https://git.io/streak-stats)
+<br>
+![](https://komarev.com/ghpvc/?username=surajbhan-3)
