@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Suraj Bhan Singh
 - 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on ......
 - 📫 How to reach me surajbhan2baoz@gmail.com
 
 <h1>Connect with me </h1>
