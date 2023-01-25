@@ -10,6 +10,7 @@
 <h1> Languages and Tools </h1>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,figma,github"/>
+<a href=""><img src="https://skillicons.dev/icons?i=figma"/>  </a>
 
 
 <!---
