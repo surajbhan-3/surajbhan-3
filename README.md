@@ -9,7 +9,7 @@
 
 <h1> Languages and Tools </h1>
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="5%" height="5%" > <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="5%" height="5%" > <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="5%" height="5%" >
+<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,figma,github"/>
 
 
 <!---
