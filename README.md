@@ -9,7 +9,7 @@
 <span>
 <a href="https://twitter.com/surajbhan2boaz" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" width="5%" height="5%"></a></span> 
 <span>
-<a href="https://www.quora.com/profile/Suraj-Bhan-Singh-24" rel="nofollow"><img src="hhttps://cdn-icons-png.flaticon.com/512/3938/3938093.png" width="5%" height="5%"></a></span> 
+<a href="https://www.quora.com/profile/Suraj-Bhan-Singh-24" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938093.png" width="5%" height="5%"></a></span> 
 </span>
 
 
