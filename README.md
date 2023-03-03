@@ -1,4 +1,4 @@
- I’m  Suraj Bhan Singh
+Hii, I’m  Suraj Bhan Singh Budding Full stack Developer
 
 - 📫 How to reach me surajbhan2baoz@gmail.com
 
