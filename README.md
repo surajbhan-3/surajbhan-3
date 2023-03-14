@@ -2,6 +2,7 @@ Hii, I’m  Suraj Bhan Singh Budding Full stack Developer
 
 - 📫 How to reach me surajbhan2baoz@gmail.com
 -
+
 <h1>Connect with me </h1>
 
 
@@ -44,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=surajbhan-3)](https://git.io/streak-stats)
-
 <br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajbhan-3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
