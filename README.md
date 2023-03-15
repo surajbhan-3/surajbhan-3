@@ -56,9 +56,11 @@ You can click the Preview link to take a look at your changes.
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajbhan-3&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a herf="https://github.com/surajbhan-3/Quotes-gifs">
+<a href="https://github.com/surajbhan-3/Quotes-gifs">
 <img src="https://user-images.githubusercontent.com/80870870/225224944-56e12219-1749-4a35-97d7-aa193840597e.gif">
 </a>
+
+
 
 
 
