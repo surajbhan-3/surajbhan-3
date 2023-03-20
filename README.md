@@ -32,6 +32,10 @@
 [![canva](https://user-images.githubusercontent.com/80870870/226368875-7fcdbd16-ab8e-4006-87a4-c3a6ac84845d.png)](https://github.com/surajbhan-3/Skills_logos)<span>
 [![git](https://user-images.githubusercontent.com/80870870/226376967-f464b0a4-5906-4d91-bcab-4176898af55a.png)](https://github.com/surajbhan-3/Skills_logos)<span>
 [![vscode](https://user-images.githubusercontent.com/80870870/226378741-10a77626-378c-46c6-8dd4-e08617bcefcd.png)](https://github.com/surajbhan-3/Skills_logos)
+<span>
+[![npm1](https://user-images.githubusercontent.com/80870870/226421563-3df9f271-c07f-4a3b-9286-b079df75124c.png)](https://github.com/surajbhan-3/Skills_logos)
+<span>
+[![linux](https://user-images.githubusercontent.com/80870870/226421962-46da77f8-2d0a-47bd-b58a-66f4a9ec0fd4.png)](https://github.com/surajbhan-3/Skills_logos)
 
 
 
