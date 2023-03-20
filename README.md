@@ -29,13 +29,16 @@
 [![mongo](https://user-images.githubusercontent.com/80870870/226368794-ded31f79-f46f-4bb5-ab9f-b45de79220b6.png)](https://github.com/surajbhan-3/Skills_logos)<span> 
 [![postman](https://user-images.githubusercontent.com/80870870/226368828-42825cb5-d475-426b-aec2-fdef6460af0f.png)](https://github.com/surajbhan-3/Skills_logos)<span>
 [![netlify](https://user-images.githubusercontent.com/80870870/226368848-eb079081-c717-43a9-9813-4848107fc141.png)](https://github.com/surajbhan-3/Skills_logos)<span>
-[![canva](https://user-images.githubusercontent.com/80870870/226368875-7fcdbd16-ab8e-4006-87a4-c3a6ac84845d.png)](https://github.com/surajbhan-3/Skills_logos)
+[![canva](https://user-images.githubusercontent.com/80870870/226368875-7fcdbd16-ab8e-4006-87a4-c3a6ac84845d.png)](https://github.com/surajbhan-3/Skills_logos)<span>
+[![git](https://user-images.githubusercontent.com/80870870/226376967-f464b0a4-5906-4d91-bcab-4176898af55a.png)](https://github.com/surajbhan-3/Skills_logos)<span>
+[![vscode](https://user-images.githubusercontent.com/80870870/226378741-10a77626-378c-46c6-8dd4-e08617bcefcd.png)](https://github.com/surajbhan-3/Skills_logos)
+
 
 
 
 
   
-<img src="https://skillicons.dev/icons?i=vscode,git,figma,github,codepen,replit,linux,vim"/>
+<img src="https://skillicons.dev/icons?i=figma,github,codepen,replit,linux,vim"/>
 <!-- <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/18/d6/e418d6dd-dd96-2611-f3a8-d771498fead9/icon.png/230x0w.webp" width="6.5%" height="6.5%"> -->
 
 
