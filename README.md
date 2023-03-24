@@ -20,7 +20,7 @@
 </span>
 
 
-<h1> Languages and Tools </h1>
+<h1> Languages, Frameworks, Libraries and Tools </h1>
 
 
 
