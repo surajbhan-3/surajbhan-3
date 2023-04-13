@@ -1,11 +1,11 @@
 
 <img src="https://user-images.githubusercontent.com/80870870/225249776-83f413b7-bd20-40bd-a9fd-2014559bf9bb.gif">
 
-<h2 dir="auto"><a id="user-content-️-about-me" class="anchor" aria-hidden="true" href="#️-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"><img class="emoji" alt="raising_hand_man" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"></g-emoji> About Me</h2>
+<h2 dir="auto"><a id="user-content-️-about-me" class="anchor" aria-hidden="true" href="#️-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"><img class="emoji" alt="raising_hand_man" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"></g-emoji>
 
-- 📫 How to reach me surajbhan2baoz@gmail.com
-
-
+  <hr>
+  
+####  Visit my portfolio <a href="https://surajbhan-3.github.io/" rel="nofollow">Portfolio</a></li>
 
 
 ## Tech Stack
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=surajbhan-3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![surajbhan GitHub stats](https://github-readme-stats.vercel.app/api?username=surajbhan-3&count_private=true&theme=react)](https://github.com/surajbhan-3/github-readme-stats)<span>   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhan-3&langs_count=8&count_private=true&layout=compact&theme=react)</span>
+[![surajbhan GitHub stats](https://github-readme-stats.vercel.app/api?username=surajbhan-3&count_private=true&theme=react)]<span>   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhan-3&langs_count=8&count_private=true&layout=compact&theme=react)</span>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=surajbhan-3&theme=dark)](https://git.io/streak-stats)
