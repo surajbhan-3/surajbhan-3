@@ -10,7 +10,7 @@
   </h2>
   <br>
   
-  ##### I am a computer science enthusiast who is passionate about learning and exploring new technologies. As a full-stack developer, I specialize in both backend and frontend development using Node.js and JavaScript frameworks. Although I am a fresher in the industry, I have experience working on various projects, including web applications and websites, and I am constantly learning to improve my skills. I believe in building robust and scalable web applications that are user-friendly and visually appealing. Apart from this I also know that continuous learning is key to staying ahead in this field.When I'm not studying or coding, I enjoy reading about new things and playing games. I also enjoy outdoor activities, which helps me stay refreshed and ready for new challenges. If you have any opportunities or projects that would be a good fit for me, please feel free to contact me.
+  ### I am a computer science enthusiast who is passionate about learning and exploring new technologies. As a full-stack developer, I specialize in both backend and frontend development using Node.js and JavaScript frameworks. Although I am a fresher in the industry, I have experience working on various projects, including web applications and websites, and I am constantly learning to improve my skills. I believe in building robust and scalable web applications that are user-friendly and visually appealing.
   
 
   <hr>
