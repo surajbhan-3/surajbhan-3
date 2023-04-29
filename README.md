@@ -10,9 +10,11 @@
   </h2>
   
   ### I am a computer science enthusiast who is passionate about learning and exploring new technologies. As a full-stack developer,I have experience working on various projects, including web applications and websites, and I am constantly learning to improve my skills. I believe in building robust and scalable web applications that are user-friendly and visually appealing.
-  
-
   <hr>
+  
+  <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently doing <strong>Backend Projects (NodeJs)</strong>.</li>
+  
+  <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> connect with me by email at <a href="mailto:surajbhan2boaz@gmail.com">surajbhan2boaz@gmail.com</a></li>
   
   
 ####  Visit my portfolio <a href="https://surajbhan-3.github.io/" rel="nofollow">Portfolio</a></li>
