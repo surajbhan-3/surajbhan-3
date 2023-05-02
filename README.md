@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=surajbhan-3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![surajbhan GitHub stats](https://github-readme-stats.vercel.app/api?username=surajbhan-3&count_private=true&theme=react)]<span>   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhan-3&langs_count=8&count_private=true&layout=compact&theme=react)</span>
+[![surajbhan GitHub stats](https://github-readme-stats.vercel.app/api?username=surajbhan-3&count_private=false&theme=react)]<span>   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhan-3&langs_count=8&count_private=false&layout=compact&theme=react)</span>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=surajbhan-3&theme=dark)](https://git.io/streak-stats)
