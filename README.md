@@ -3,7 +3,7 @@
 
 
 
-![suraj bhan singh](https://user-images.githubusercontent.com/80870870/235311809-d8715b1c-cb68-4764-917a-a85537b96553.gif)
+![suraj bhan singh](https://user-images.githubusercontent.com/80870870/238544607-03fda420-8e88-43a7-a934-057e64b12de4.gif)
 
 
 
