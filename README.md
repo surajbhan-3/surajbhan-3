@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=surajbhan-3&theme=dark)](https://git.io/streak-stats)
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajbhan-3&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![surajbhan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=surajbhan-3&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
   
