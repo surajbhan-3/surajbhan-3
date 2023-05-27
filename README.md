@@ -91,7 +91,11 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-contributor-stats.vercel.app/api?username=surajbhan-3&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
   
   
-  
+  ow does your Twitter feed and the tweet data show up in your browser securely?
+
+In this post, we’ll look at what happens when you type a URL into your browser and press enter. End to end, the process involves the browser, your computer’s operating system, your internet service provider, the server where you host the site, and services running on that server. It’s important to understand where things can go wrong, where to look for performance issues, and ensure you’re offering a secure experience for your users.
+
+First, we’ll take a look at the relationship between websites, servers, and IP addresses. Then, 
 <a href="https://github.com/surajbhan-3/Quotes-gifs">
 <img src="https://user-images.githubusercontent.com/80870870/225224944-56e12219-1749-4a35-97d7-aa193840597e.gif">
 </a>
@@ -103,7 +107,7 @@ You can click the Preview link to take a look at your changes.
   
   
   
-## Connect with me
+## Connect with me 
 
 <a href="https://www.linkedin.com/in/surajbhan-singh/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
 <span>
