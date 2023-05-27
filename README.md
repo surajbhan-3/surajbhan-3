@@ -56,11 +56,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/80870870/225220328-6a3311a1-241e-43a4-bb12-a98298ca9f4c.gif">
-ow does your Twitter feed and the tweet data show up in your browser securely?
 
-In this post, we’ll look at what happens when you type a URL into your browser and press enter. End to end, the process involves the browser, your computer’s operating system, your internet service provider, the server where you host the site, and services running on that server. It’s important to understand where things can go wrong, where to look for performance issues, and ensure you’re offering a secure experience for your users.
 
-First, we’ll take a look at the relationship between websites, servers, and IP addresses. Then, 
 
 <hr>
 
