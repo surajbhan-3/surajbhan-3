@@ -8,7 +8,11 @@
 
 
 
-<h2 dir="auto"><a id="user-content-️-about-me" class="anchor" aria-hidden="true" href="#️-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"><img class="emoji" alt="raising_hand_man" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"></g-emoji> Hello there! welcome to my profile.
+<h2 dir="auto"><a id="user-content-️-about-me" class="anchor" aria-hidden="true" href="#️-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"><img class="emoji" alt="raising_hand_man" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"></g-emoji> Hello therow does your Twitter feed and the tweet data show up in your browser securely?
+
+In this post, we’ll look at what happens when you type a URL into your browser and press enter. End to end, the process involves the browser, your computer’s operating system, your internet service provider, the server where you host the site, and services running on that server. It’s important to understand where things can go wrong, where to look for performance issues, and ensure you’re offering a secure experience for your users.
+
+First, we’ll take a look at the relationship between websites, servers, and IP addresses. Then, e! welcome to my profile.
   </h2>
   
   #### I am a computer science enthusiast who is passionate about learning and exploring new technologies. As a full-stack developer,I have experience working on various projects, including web applications and websites, and I am constantly learning to improve my skills. I believe in building robust and scalable web applications that are user-friendly and visually appealing.
@@ -56,7 +60,11 @@
 
 
 <img src="https://user-images.githubusercontent.com/80870870/225220328-6a3311a1-241e-43a4-bb12-a98298ca9f4c.gif">
+ow does your Twitter feed and the tweet data show up in your browser securely?
 
+In this post, we’ll look at what happens when you type a URL into your browser and press enter. End to end, the process involves the browser, your computer’s operating system, your internet service provider, the server where you host the site, and services running on that server. It’s important to understand where things can go wrong, where to look for performance issues, and ensure you’re offering a secure experience for your users.
+
+First, we’ll take a look at the relationship between websites, servers, and IP addresses. Then, 
 
 <hr>
 
@@ -91,11 +99,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-contributor-stats.vercel.app/api?username=surajbhan-3&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
   
   
-  ow does your Twitter feed and the tweet data show up in your browser securely?
 
-In this post, we’ll look at what happens when you type a URL into your browser and press enter. End to end, the process involves the browser, your computer’s operating system, your internet service provider, the server where you host the site, and services running on that server. It’s important to understand where things can go wrong, where to look for performance issues, and ensure you’re offering a secure experience for your users.
-
-First, we’ll take a look at the relationship between websites, servers, and IP addresses. Then, 
 <a href="https://github.com/surajbhan-3/Quotes-gifs">
 <img src="https://user-images.githubusercontent.com/80870870/225224944-56e12219-1749-4a35-97d7-aa193840597e.gif">
 </a>
